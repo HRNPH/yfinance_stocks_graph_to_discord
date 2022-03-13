@@ -1,12 +1,11 @@
 # yfinance_stocks_graph_bot_discord
-this bot will pull data from yahoofinance in dataframe and plot it using pandas and save using matplotlib
-then send messsege in discord
+this bot will pull plot price from yfinance to discord
 
-####how to use:
+### how to use:
 
 changes TOKENS in bot.py and it's yours
 
-###pros
+### pros
 
 moddable:
 
@@ -20,7 +19,7 @@ support more stonks and commodities:
 as long as it in yahoofinance (almost all of it in)
 Example YGG (.bk) stonk not support in Alpha but support if you use this bot WOOHOO!!!
 
-####cons
+### cons
 
 graph and interface:
 
@@ -34,7 +33,7 @@ prefix:
 hard to edit cuz i don't know discord have (prefix = x)
 you can fix that by yourself btw and discord I'll only support / commands soon but for small scale use this'll do just fine
 
-####for non programmer
+### for non programmer
 
 search how to get discord bot tokens
 and put that tokens inside ('TOKENS')
@@ -44,7 +43,7 @@ when you run it run bot.py
 you can deploy it in replit too
 but seacrh how to do that yourself it's pretty easy tho
 
-###พาสาไท - ภาษาไทย
+### - ภาษาไทย
 
 เอาโทเคนบอทไปใส่ใน ('TOKENS') ที่ bot.py
 ส่วนโทคเคนบอท ไปหาเอาในกูเกิ้ลแล้วกันว่าเอามายังไง
