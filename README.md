@@ -47,3 +47,7 @@ but seacrh how to do that yourself it's pretty easy tho
 
 เอาโทเคนบอทไปใส่ใน ('TOKENS') ที่ bot.py
 ส่วนโทคเคนบอท ไปหาเอาในกูเกิ้ลแล้วกันว่าเอามายังไง
+
+# sample
+
+[![Screenshot-2022-03-13-153736.png](https://i.postimg.cc/L8sdjxLW/Screenshot-2022-03-13-153736.png)](https://postimg.cc/56DkVqP5)
